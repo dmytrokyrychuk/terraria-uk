@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The '''Countercurse Mantra''' is an [[accessory]] that combines the functions of the [[Megaphone]] and the [[Nazar]]. This item grants immunity to both the [[Silenced]] and [[Cursed]] [[debuffs]].</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro" changedate="20221025T184141Z" creationid="Dmytro" creationdate="20221025T180556Z">
+        <seg>'''Антизурочувальна мантра''' це [[аксесуар]], що поєднує властивості [[Магафон]]а та [[Назар]]а. Цей предмет надає імунітет від [[дебаф]]ів  [[Безмовність]] та [[Проклятий]].</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
