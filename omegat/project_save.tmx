@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>=== Recipes ===</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190659Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190659Z">
+        <seg>=== Рецепти ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is one of the ingredients required to make the [[Ankh Charm]], which is further required to make the [[Ankh Shield]].</seg>
       </tuv>
       <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190258Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190258Z">
