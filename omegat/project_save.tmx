@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>== Crafting ==</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
+        <seg>== Крафт ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>== History ==</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190903Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190903Z">
+        <seg>== Історія ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=== Recipes ===</seg>
       </tuv>
       <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190659Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190659Z">
