@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* [[Sunglasses]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184058Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184058Z">
+        <seg>* [[Сонячні окуляри]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Common variants ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181326Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{history|Console-Release|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184102Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184102Z">
+        <seg>{{history|Console-Release|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.2|Introduced.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
@@ -198,10 +214,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{history|Desktop 1.3.1|Sprites updated.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184201Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184201Z">
+        <seg>{{history|Desktop 1.3.1|Спрайти оновлено.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.4.0.1|Inventory sprites updated.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184214Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184214Z">
+        <seg>{{history|Desktop 1.4.0.1|Спрайти інвентарю оновлено.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.4.4|It is now obtainable in Pre-Hardmode as you can now acquire all of it's ingredients via Shimmer.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165620Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165620Z">
         <seg>{{history|Desktop 1.4.4|Стала доступною у простому режимі, бо інгредієнти тепер можна отримати через Мерехт.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop-Release|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184106Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184106Z">
+        <seg>{{history|Desktop-Release|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182417Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182417Z">
         <seg>{{history|Mobile 1.3.0.7|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Mobile-Release|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184111Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184111Z">
+        <seg>{{history|Mobile-Release|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180240Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180240Z">
         <seg>{{language info|en=Countercurse Mantra}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{language info|en=Goggles}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184119Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184119Z">
+        <seg>{{language info|en=Goggles}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +410,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180950Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180950Z">
         <seg>| imagealt = [[File:Mimic.png|link=]]  [[File:Ice Mimic.png|link=]] [[File:Present Mimic.png|link=]] &lt;hr style="margin:10px 0;"/&gt; [[File:Hallowed Mimic2.png|40px|link=]] [[File:Corrupt Mimic2.png|44px|link=]] [[File:Crimson Mimic2.png|40px|link=]] [[File:Jungle Mimic2.png|40px|link=]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| show-armor = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184114Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184114Z">
+        <seg>| show-armor = yes</seg>
       </tuv>
     </tu>
     <tu>
