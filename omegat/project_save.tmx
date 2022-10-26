@@ -1,134 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>* A {{wikipedia|mantra}} is a religious hymn believed to have psychological or spiritual powers.</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165340Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165340Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165340Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165340Z">
         <seg>* {{wikipedia|Мантра}} це релігійний гімн, якому приписують психологічні та духовні сили.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>== Crafting ==</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
         <seg>== Крафт ==</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>== History ==</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190903Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190903Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190903Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190903Z">
         <seg>== Історія ==</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>== Trivia ==</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165230Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165230Z">
         <seg>== Цікаві факти ==</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>=== Recipes ===</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190659Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190659Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190659Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190659Z">
         <seg>=== Рецепти ===</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>=== Used in ===</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165708Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165708Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165708Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165708Z">
         <seg>=== Використовується у ===</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>It is one of the ingredients required to make the [[Ankh Charm]], which is further required to make the [[Ankh Shield]].</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165835Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190258Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165835Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190258Z">
         <seg>Він є обов'язковим інгредієнтом для створення [[Амулета анха|Амулет анха]], який, у свою чергу, потрібен для створення [[Щита анха|Щит анха]]. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>The '''Countercurse Mantra''' is an [[accessory]] that combines the functions of the [[Megaphone]] and the [[Nazar]]. This item grants immunity to both the [[Silenced]] and [[Cursed]] [[debuffs]].</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro" changedate="20221025T184141Z" creationid="Dmytro" creationdate="20221025T180556Z">
+      <tuv lang="uk" changeid="Dmytro" changedate="20221025T184141Z" creationid="Dmytro" creationdate="20221025T180556Z">
         <seg>'''Антизурочувальна мантра''' це [[аксесуар]], що поєднує властивості [[Магафон]]а та [[Назар]]а. Цей предмет надає імунітет від [[дебаф]]ів  [[Безмовність]] та [[Проклятий]].</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>While the Countercurse Mantra is exclusive to [[Hardmode]] on the {{eversions|1.4.4|invert=y}}, it can be obtained in [[pre-Hardmode]] on the {{eversions|1.4.4}}, as you can obtain the Megaphone by throwing the Nazar into {{eil|Shimmer}}.</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T173946Z" creationid="Dmytro Kyrychuk" creationdate="20221025T191333Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T173946Z" creationid="Dmytro Kyrychuk" creationdate="20221025T191333Z">
         <seg>Хоча Антизурочувальна мантра доступна тільки у складному режимі на {{eversions|1.4.4|invert=y}}, її можна здобути у простому режимі на {{eversions|1.4.4}}, оскільки Мегафон можна отримати, кинувши Назар у {{eil|Мерехт}} </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
+        <seg>{{Hardmode accessories}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T175952Z" creationid="Dmytro Kyrychuk" creationdate="20221026T175952Z">
+        <seg>{{Hardmode accessories}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|3DS-Release|Introduced.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165406Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165406Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165406Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165406Z">
         <seg>{{history|3DS-Release|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Console 1.02|Introduced.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165419Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165419Z">
         <seg>{{history|Console 1.02|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.2|Introduced.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
         <seg>{{history|Desktop 1.2|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.3.0.1|Sprite updated. Old sprite was [[File:Countercurse Mantra (old).png|20px]].}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165446Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165446Z">
         <seg>{{history|Desktop 1.3.0.1|Оновлено спрайт. Старий спрайт: [[File:Countercurse Mantra (old).png|20px]].}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.4.4|It is now obtainable in Pre-Hardmode as you can now acquire all of it's ingredients via Shimmer.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165620Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165620Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165620Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165620Z">
         <seg>{{history|Desktop 1.4.4|Стала доступною у простому режимі, бо інгредієнти тепер можна отримати через Мерехт.}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Mobile 1.2.6508|Introduced.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165409Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165409Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165409Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165409Z">
         <seg>{{history|Mobile 1.2.6508|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
+      <tuv lang="en-US">
         <seg>{{history|Switch 1.0.711.6|Introduced.}}</seg>
       </tuv>
-      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165415Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165415Z">
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165415Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165415Z">
         <seg>{{history|Switch 1.0.711.6|Додано.}}</seg>
       </tuv>
     </tu>
