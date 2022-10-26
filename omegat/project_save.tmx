@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Arms ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190443Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190443Z">
+        <seg>== Руки ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Common variants ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181326Z">
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{language info|en=Skeletron Prime}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190534Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190534Z">
+        <seg>{{language info|en=Skeletron Prime}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{npc infobox | notabs=y</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180946Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180946Z">
@@ -478,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| show-boss = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190532Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190532Z">
+        <seg>| show-boss = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| show-combatacc = yes</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180236Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180236Z">
@@ -530,6 +554,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185621Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185621Z">
         <seg>| type = Boss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| type = Boss Part</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190446Z">
+        <seg>| type = Boss Part</seg>
       </tuv>
     </tu>
     <tu>
