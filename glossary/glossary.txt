@@ -3,3 +3,7 @@ Countercurse Mantra	Антизурочувальна мантра
 Megaphone	Мегафон
 Nazar	Назар
 accessory	аксесуар
+Mimic	Наслідувач
+Hardmode	Складний режим
+chest	скриня
+enemy	ворог
