@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Skeletron Prime''' is a [[Hardmode]] [[mechanical boss]] which is essentially a more difficult version of [[Skeletron]]. It consists of a head and four limbs, but, similarly to Skeletron, only the head needs to be defeated to defeat the boss.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185933Z">
+        <seg>'''Скелетрон Прайм''' це [[механічний бос]] [[Складний режим|складного режиму]], який є сильнішою версією [[Скелетрон]]а. Він складається з голови та чотирьох кінцівок, але тільки голова має бути знищена для перемоги над ним, як і над Скелетроном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* A {{wikipedia|mantra}} is a religious hymn believed to have psychological or spiritual powers.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165340Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165340Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185748Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185748Z">
         <seg>| damage2 = &lt;br/&gt;{{modes|{{#expr:{{npcinfo|127|damage}}*2}}|{{#expr:{{npcinfo|127|damage|expert}}*2}}|{{#expr:{{npcinfo|127|damage|master}}*2}}}} {{note|small=y|(коли крутиться) {{source code ref|v=1.4.1.2|name=headai|method {{code|AI()}} in {{code|Terraria.NPC.cs}} (under {{code|aiStyle {{=}}{{=}} 32}})}}}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| defense2 = &lt;br/&gt;{{#expr:{{npcinfo|127|defense}}*2}} {{note|small=y|(while spinning) &lt;ref name="headai"/&gt;}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185821Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185821Z">
+        <seg>| defense2 = &lt;br/&gt;{{#expr:{{npcinfo|127|defense}}*2}} {{note|small=y|(коли крутиться) &lt;ref name="headai"/&gt;}}</seg>
       </tuv>
     </tu>
     <tu>
