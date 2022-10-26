@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| hardmode = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191205Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191205Z">
+        <seg>| hardmode = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| imagealt = [[File:Mimic.png|link=]]  [[File:Ice Mimic.png|link=]] [[File:Present Mimic.png|link=]] &lt;hr style="margin:10px 0;"/&gt; [[File:Hallowed Mimic2.png|40px|link=]] [[File:Corrupt Mimic2.png|44px|link=]] [[File:Crimson Mimic2.png|40px|link=]] [[File:Jungle Mimic2.png|40px|link=]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180950Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180950Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190953Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190953Z">
         <seg>| soundcaption1 = Пуск бомби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| soundcaption1 = Entering spinning phase</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191438Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191438Z">
+        <seg>| soundcaption1 = Перехід у фізу крутіння</seg>
       </tuv>
     </tu>
     <tu>
