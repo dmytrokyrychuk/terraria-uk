@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== See also ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184012Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184012Z">
+        <seg>== Дивись також ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Trivia ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165230Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180252Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180252Z">
         <seg>{{recipes|result=Countercurse Mantra|expectedrows=1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{recipes|result=Goggles|expectedrows=2}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184000Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184000Z">
+        <seg>{{recipes|result=Goggles|expectedrows=2}}</seg>
       </tuv>
     </tu>
     <tu>
