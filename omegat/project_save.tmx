@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;section begin=npc infobox /&gt;{{npc infobox | boxwidth = 24em</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185613Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185613Z">
+        <seg>&lt;section begin=npc infobox /&gt;{{npc infobox | boxwidth = 24em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Common variants ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181326Z">
@@ -374,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| auto = 127</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185618Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185618Z">
+        <seg>| auto = 127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| auto = 3081</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182326Z">
@@ -402,6 +418,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180954Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180954Z">
         <seg>| cargo = no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| damage2 = &lt;br/&gt;{{modes|{{#expr:{{npcinfo|127|damage}}*2}}|{{#expr:{{npcinfo|127|damage|expert}}*2}}|{{#expr:{{npcinfo|127|damage|master}}*2}}}} {{note|small=y|(while spinning) {{source code ref|v=1.4.1.2|name=headai|method {{code|AI()}} in {{code|Terraria.NPC.cs}} (under {{code|aiStyle {{=}}{{=}} 32}})}}}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185748Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185748Z">
+        <seg>| damage2 = &lt;br/&gt;{{modes|{{#expr:{{npcinfo|127|damage}}*2}}|{{#expr:{{npcinfo|127|damage|expert}}*2}}|{{#expr:{{npcinfo|127|damage|master}}*2}}}} {{note|small=y|(коли крутиться) {{source code ref|v=1.4.1.2|name=headai|method {{code|AI()}} in {{code|Terraria.NPC.cs}} (under {{code|aiStyle {{=}}{{=}} 32}})}}}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| environment = Surface+Night/ Space+Night</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185634Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185634Z">
+        <seg>| environment = Surface+Night/ Space+Night</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +506,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182322Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182322Z">
         <seg>| type = Block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| type = Boss</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185621Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185621Z">
+        <seg>| type = Boss</seg>
       </tuv>
     </tu>
     <tu>
