@@ -46,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Achievements ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190720Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190720Z">
+        <seg>== Досягнення ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Arms ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190443Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190443Z">
         <seg>== Руки ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Behavior ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191159Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191159Z">
+        <seg>== Поведінка ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184012Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184012Z">
         <seg>== Дивись також ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Tips ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190729Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190729Z">
+        <seg>== Підказки ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{history|Mobile 1.1.5536|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190713Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190713Z">
+        <seg>{{history|Mobile 1.1.5536|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|Mobile 1.2.6508|Introduced.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165409Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165409Z">
@@ -414,6 +446,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| auto = 128</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190737Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190737Z">
+        <seg>| auto = 128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 129</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190755Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190755Z">
+        <seg>| auto = 129</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 130</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191014Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191014Z">
+        <seg>| auto = 130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 131</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191035Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191035Z">
+        <seg>| auto = 131</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| auto = 3081</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182326Z">
@@ -458,6 +522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185821Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185821Z">
         <seg>| defense2 = &lt;br/&gt;{{#expr:{{npcinfo|127|defense}}*2}} {{note|small=y|(коли крутиться) &lt;ref name="headai"/&gt;}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| environment = Surface+Night / Space+Night</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191011Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191011Z">
+        <seg>| environment = Surface+Night / Space+Night</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +598,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| sound1 = Item 10.wav</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190742Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190742Z">
+        <seg>| sound1 = Item 10.wav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| sound1 = Item 33.wav</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191039Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191039Z">
+        <seg>| sound1 = Item 33.wav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| sound2 = Item 14.wav</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190748Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190748Z">
+        <seg>| sound2 = Item 14.wav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| soundcaption1 = Attack</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191054Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191054Z">
+        <seg>| soundcaption1 = Атака</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| soundcaption1 = Bomb launch</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190953Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190953Z">
+        <seg>| soundcaption1 = Пуск бомби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| soundcaption2 = Bomb explosion</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191003Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191003Z">
+        <seg>| soundcaption2 = Вибух бомби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| tags = plunder</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182341Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182341Z">
@@ -562,6 +682,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190446Z">
         <seg>| type = Boss Part</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|{{infobox wrapper|direction=row|float=none</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191032Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191032Z">
+        <seg>|{{infobox wrapper|direction=row|float=none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|{{npc infobox|boxwidth=18em</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191007Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191007Z">
+        <seg>|{{npc infobox|boxwidth=18em</seg>
       </tuv>
     </tu>
     <tu>
