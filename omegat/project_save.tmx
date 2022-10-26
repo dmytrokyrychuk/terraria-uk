@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{infobox wrapper|direction=row|float=none</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191440Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191440Z">
+        <seg>{{infobox wrapper|direction=row|float=none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{item infobox</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180230Z">
