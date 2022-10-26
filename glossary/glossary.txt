@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 Shimmer	Мерехт
 Countercurse Mantra	Антизурочувальна мантра
 Megaphone	Мегафон
@@ -8,3 +9,4 @@ Hardmode	Складний режим
 chest	скриня
 enemy	ворог
 Goggles	Окуляри
+Sunglasses	Сонячні окуляри
