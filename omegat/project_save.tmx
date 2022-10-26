@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Common variants ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181326Z">
+        <seg>== Поширені види ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Crafting ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190903Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190903Z">
         <seg>== Історія ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== References ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181421Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181421Z">
+        <seg>== Посилання ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T175952Z" creationid="Dmytro Kyrychuk" creationdate="20221026T175952Z">
         <seg>{{Hardmode accessories}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Master Template Characters</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181355Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181355Z">
+        <seg>{{Master Template Characters</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{language info|en=Mimics}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181329Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181329Z">
+        <seg>{{language info|en=Mimics}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{npc infobox | notabs=y</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180946Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180946Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180252Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180252Z">
         <seg>{{recipes|result=Countercurse Mantra|expectedrows=1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{reflist}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181408Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181408Z">
+        <seg>{{reflist}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180236Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180236Z">
         <seg>| show-combatacc = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| show-hardmode = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181351Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181351Z">
+        <seg>| show-hardmode = yes</seg>
       </tuv>
     </tu>
     <tu>
