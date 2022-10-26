@@ -118,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Master Template Tiles</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182419Z">
+        <seg>{{Master Template Tiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|3DS-Release|Introduced.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165406Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165406Z">
         <seg>{{history|3DS-Release|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Console 1.0.750.0|Introduced. ({{icon|ps4}})}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182412Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182412Z">
+        <seg>{{history|Console 1.0.750.0|Додано. ({{icon|ps4}})}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Console 1.0.933.1|Introduced. ({{icon|xbox one}})}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182408Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182408Z">
+        <seg>{{history|Console 1.0.933.1|Додано. ({{icon|xbox one}})}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
         <seg>{{history|Desktop 1.2|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.3.0.1|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182403Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182403Z">
+        <seg>{{history|Desktop 1.3.0.1|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{history|Mobile 1.3.0.7|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182417Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182417Z">
+        <seg>{{history|Mobile 1.3.0.7|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|Switch 1.0.711.6|Introduced.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165415Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165415Z">
@@ -186,6 +226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180240Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180240Z">
         <seg>{{language info|en=Countercurse Mantra}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{language info|en=Marble Block}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182428Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182428Z">
+        <seg>{{language info|en=Marble Block}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{recipes|ingredient=Marble Block|expectedrows=2}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182352Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182352Z">
+        <seg>{{recipes|ingredient=Marble Block|expectedrows=2}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{recipes|result=Countercurse Mantra|expectedrows=1}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180252Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180252Z">
@@ -222,10 +278,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{recipes|result=Marble Block|expectedrows=1}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182350Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182350Z">
+        <seg>{{recipes|result=Marble Block|expectedrows=1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{reflist}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181408Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181408Z">
         <seg>{{reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 3081</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182326Z">
+        <seg>| auto = 3081</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| show-blocks = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182425Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182425Z">
+        <seg>| show-blocks = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| show-combatacc = yes</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180236Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180236Z">
@@ -266,6 +346,30 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181351Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181351Z">
         <seg>| show-hardmode = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| show-main = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182423Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182423Z">
+        <seg>| show-main = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| tags = plunder</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182341Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182341Z">
+        <seg>| tags = plunder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| type = Block</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182322Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182322Z">
+        <seg>| type = Block</seg>
       </tuv>
     </tu>
     <tu>
