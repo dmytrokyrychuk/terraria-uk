@@ -68,6 +68,62 @@
         <seg>Хоча Антизурочувальна мантра доступна тільки у складному режимі на {{eversions|1.4.4|invert=y}}, її можна здобути у простому режимі на {{eversions|1.4.4}}, оскільки Мегафон можна отримати, кинувши Назар у {{eil|Shimmer|Мерехт}} </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|3DS-Release|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165406Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165406Z">
+        <seg>{{history|3DS-Release|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Console 1.02|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165419Z">
+        <seg>{{history|Console 1.02|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Desktop 1.2|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
+        <seg>{{history|Desktop 1.2|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Desktop 1.3.0.1|Sprite updated. Old sprite was [[File:Countercurse Mantra (old).png|20px]].}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165446Z">
+        <seg>{{history|Desktop 1.3.0.1|Оновлено спрайт. Старий спрайт: [[File:Countercurse Mantra (old).png|20px]].}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Desktop 1.4.4|It is now obtainable in Pre-Hardmode as you can now acquire all of it's ingredients via Shimmer.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165620Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165620Z">
+        <seg>{{history|Desktop 1.4.4|Стала доступною у простому режимі, бо інгредієнти тепер можна отримати через Мерехт.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Mobile 1.2.6508|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165409Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165409Z">
+        <seg>{{history|Mobile 1.2.6508|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{history|Switch 1.0.711.6|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165415Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165415Z">
+        <seg>{{history|Switch 1.0.711.6|Додано.}}</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
