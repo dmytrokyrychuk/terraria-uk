@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>'''Goggles''' are a piece of [[armor]] placed in the helmet slot. Unlike most helmets, Goggles do not cover the player's hair. Due to their low defense, they are often used as [[vanity]] items.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T183957Z" creationid="Dmytro Kyrychuk" creationdate="20221026T183957Z">
+        <seg>'''Окуляри''' це елемент [[броні|Броня]], що займає слот шолома. На відміну від інших шоломів, Окуляри не захищають волосся гравця. Через їх низький захист, вони часто використовуються як елемент [[стилю|Стиль]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* A {{wikipedia|mantra}} is a religious hymn believed to have psychological or spiritual powers.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165340Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165340Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| auto = 37</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T183149Z" creationid="Dmytro Kyrychuk" creationdate="20221026T183149Z">
+        <seg>| auto = 37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| auto = 904</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180227Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180227Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182341Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182341Z">
         <seg>| tags = plunder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| type = Armor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T183151Z" creationid="Dmytro Kyrychuk" creationdate="20221026T183151Z">
+        <seg>| type = Armor</seg>
       </tuv>
     </tu>
     <tu>
