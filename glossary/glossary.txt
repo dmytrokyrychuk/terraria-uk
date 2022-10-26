@@ -7,3 +7,4 @@ Mimic	Наслідувач
 Hardmode	Складний режим
 chest	скриня
 enemy	ворог
+Goggles	Окуляри
