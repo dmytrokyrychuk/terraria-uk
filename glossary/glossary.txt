@@ -1,1 +1,5 @@
 Shimmer	Мерехт
+Countercurse Mantra	Антизурочувальна мантра
+Megaphone	Мегафон
+Nazar	Назар
+accessory	аксесуар
