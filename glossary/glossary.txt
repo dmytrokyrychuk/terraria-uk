@@ -10,3 +10,4 @@ chest	скриня
 enemy	ворог
 Goggles	Окуляри
 Sunglasses	Сонячні окуляри
+Skeletron Prime	Скелетрон Прайм
