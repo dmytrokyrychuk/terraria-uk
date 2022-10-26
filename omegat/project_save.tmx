@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>* A {{wikipedia|mantra}} is a religious hymn believed to have psychological or spiritual powers.</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165340Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165340Z">
+        <seg>* {{wikipedia|Мантра}} це релігійний гімн, якому приписують психологічні та духовні сили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>== Crafting ==</seg>
       </tuv>
       <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221025T190903Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190903Z">
         <seg>== Історія ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>== Trivia ==</seg>
+      </tuv>
+      <tuv lang="UK" changeid="Dmytro Kyrychuk" changedate="20221026T165230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165230Z">
+        <seg>== Цікаві факти ==</seg>
       </tuv>
     </tu>
     <tu>
