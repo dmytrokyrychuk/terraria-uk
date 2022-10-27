@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Bullets}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172621Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172621Z">
+        <seg>{{Bullets}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Hardmode accessories}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T175952Z" creationid="Dmytro Kyrychuk" creationdate="20221026T175952Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181355Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181355Z">
         <seg>{{Master Template Characters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Master Template Consumables</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172624Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172624Z">
+        <seg>{{Master Template Consumables</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184102Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184102Z">
         <seg>{{history|Console-Release|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.1|Introduced.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172634Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172634Z">
+        <seg>{{history|Desktop 1.1|Додано.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{language info|en=Cursed Bullet}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172629Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172629Z">
+        <seg>{{language info|en=Cursed Bullet}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{language info|en=Goggles}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184119Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184119Z">
@@ -426,6 +458,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180252Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180252Z">
         <seg>{{recipes|result=Countercurse Mantra|expectedrows=1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{recipes|result=Cursed Bullet|expectedrows=2}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172615Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172615Z">
+        <seg>{{recipes|result=Cursed Bullet|expectedrows=2}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>| auto = 546</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172608Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172608Z">
+        <seg>| auto = 546</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| auto = 904</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180227Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180227Z">
@@ -570,6 +618,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180950Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180950Z">
         <seg>| imagealt = [[File:Mimic.png|link=]]  [[File:Ice Mimic.png|link=]] [[File:Present Mimic.png|link=]] &lt;hr style="margin:10px 0;"/&gt; [[File:Hallowed Mimic2.png|40px|link=]] [[File:Corrupt Mimic2.png|44px|link=]] [[File:Crimson Mimic2.png|40px|link=]] [[File:Jungle Mimic2.png|40px|link=]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| show-ammo = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172626Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172626Z">
+        <seg>| show-ammo = yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +730,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191003Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191003Z">
         <seg>| soundcaption2 = Вибух бомби</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| tags = hardmodeonly</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172559Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172559Z">
+        <seg>| tags = hardmodeonly</seg>
       </tuv>
     </tu>
     <tu>
