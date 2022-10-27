@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Now creates 50 Cursed Bullets instead of 25, and requires 50 Musket Balls instead of 25.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173113Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173113Z">
+        <seg>** Тепер створює 50 Проклятих куль 25, and requires 50 Musket Balls instead of 25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;section begin=npc infobox /&gt;{{npc infobox | boxwidth = 24em</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185613Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185613Z">
@@ -270,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{history|Desktop 1.2|</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173021Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173021Z">
+        <seg>{{history|Desktop 1.2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{history|Desktop 1.2|Introduced.}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165426Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165426Z">
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182403Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182403Z">
         <seg>{{history|Desktop 1.3.0.1|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.3.0.1|Now creates 150 Cursed Bullets instead of 50, and requires 150 Musket Balls instead of 50.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173017Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173017Z">
+        <seg>{{history|Desktop 1.3.0.1|Тепер створюється 150 Проклятих куль замість 50, та потребує 150 мушкетних куль замість 50.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +330,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184214Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184214Z">
         <seg>{{history|Desktop 1.4.0.1|Спрайти інвентарю оновлено.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.4.1|Increased velocity.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172920Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172920Z">
+        <seg>{{history|Desktop 1.4.1|Збільшено швидкість.}}</seg>
       </tuv>
     </tu>
     <tu>
