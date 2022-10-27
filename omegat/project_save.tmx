@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>'''Cursed Bullets''' are a type of [[Hardmode]] [[ammunition]]. [[Enemies]] struck by Cursed Bullets are always inflicted with the [[Cursed Inferno]] [[debuff]], which causes damage over time and cannot be extinguished by [[water]] (unlike the [[On Fire!]] debuff). They are [[the Corruption]] counterpart to [[the Crimson]]'s [[Ichor Bullet]]s.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T180658Z" creationid="Dmytro Kyrychuk" creationdate="20221027T180658Z">
+        <seg>'''Прокляті кулі''' це тип [[амуніції]] [[складного режиму]]. Вражені ними [[вороги]] завжди отримують [[дебаф]] [[Прокляте пекло]], що викликає шкоду протягом часу, і не може бути погашений водою (на відміну від дабафа [[У вогні!]]). Ці кулі з [[Клятих земель]], вони є відповідником [[Іхорних куль]] з [[Багрянця]]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Goggles''' are a piece of [[armor]] placed in the helmet slot. Unlike most helmets, Goggles do not cover the player's hair. Due to their low defense, they are often used as [[vanity]] items.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185019Z" creationid="Dmytro Kyrychuk" creationdate="20221026T183957Z">
@@ -48,8 +56,16 @@
       <tuv lang="en-US">
         <seg>** Now creates 50 Cursed Bullets instead of 25, and requires 50 Musket Balls instead of 25.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173113Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173113Z">
-        <seg>** Тепер створює 50 Проклятих куль 25, and requires 50 Musket Balls instead of 25.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173147Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173113Z">
+        <seg>** Тепер створює 50 Проклятих куль 25, та потребує 50 мушкетних куль замість 25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Stack limit increased from 250 to 999.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173205Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173205Z">
+        <seg>** Ліміт стопки збільшено з 250 до 999.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +320,8 @@
       <tuv lang="en-US">
         <seg>{{history|Desktop 1.3.0.1|Now creates 150 Cursed Bullets instead of 50, and requires 150 Musket Balls instead of 50.}}</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173017Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173017Z">
-        <seg>{{history|Desktop 1.3.0.1|Тепер створюється 150 Проклятих куль замість 50, та потребує 150 мушкетних куль замість 50.}}</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173115Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173017Z">
+        <seg>{{history|Desktop 1.3.0.1|Тепер створюється 150 Проклятих куль замість 50, та потребує 150 Мушкетних куль замість 50.}}</seg>
       </tuv>
     </tu>
     <tu>
