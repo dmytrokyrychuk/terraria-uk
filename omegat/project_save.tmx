@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Achievement ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220028Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220028Z">
+        <seg>== Досягнення ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Achievements ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190720Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190720Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190704Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190704Z">
         <seg>== Крафт ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Gallery ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220041Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220041Z">
+        <seg>== Галерея ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182419Z">
         <seg>{{Master Template Tiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{achievement|name=Eye on You}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220056Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220056Z">
+        <seg>{{achievement|name=Eye on You}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{bestiary}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220044Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220044Z">
+        <seg>{{bestiary}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{infobox wrapper</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T215956Z" creationid="Dmytro Kyrychuk" creationdate="20221103T215956Z">
+        <seg>{{infobox wrapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{infobox wrapper|direction=row|float=none</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191440Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191440Z">
@@ -442,6 +482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172629Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172629Z">
         <seg>{{language info|en=Cursed Bullet}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{language info|en=Eye of Cthulhu}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220106Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220106Z">
+        <seg>{{language info|en=Eye of Cthulhu}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +642,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T183149Z" creationid="Dmytro Kyrychuk" creationdate="20221026T183149Z">
         <seg>| auto = 37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 4</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220004Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220004Z">
+        <seg>| auto = 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +890,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191032Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191032Z">
         <seg>|{{infobox wrapper|direction=row|float=none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|{{npc infobox</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220001Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220001Z">
+        <seg>|{{npc infobox</seg>
       </tuv>
     </tu>
     <tu>
