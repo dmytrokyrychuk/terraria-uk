@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* At least one player in the world has at least 200 maximum [[health]] and more than 10 [[defense]].</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T221329Z" creationid="Dmytro Kyrychuk" creationdate="20221103T221329Z">
+        <seg>* Хоча б один гравець має не менше 200 максимального [[здоров'я]] та більше 10 [[захист]]у.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* The Eye of Cthulhu has not yet been defeated in the current world.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T221041Z" creationid="Dmytro Kyrychuk" creationdate="20221103T221041Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191205Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191205Z">
         <seg>| hardmode = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| image = Eye of Cthulhu (Phase 1).gif</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T221331Z" creationid="Dmytro Kyrychuk" creationdate="20221103T221331Z">
+        <seg>| image = Eye of Cthulhu (Phase 1).gif</seg>
       </tuv>
     </tu>
     <tu>
