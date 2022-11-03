@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Nerfed Eye of Cthulhu, does less damage in its second phase.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220411Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220411Z">
+        <seg>** Око Ктулху ослаблено, щоб воно робило менше шкоди у другій фазі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Now creates 50 Cursed Bullets instead of 25, and requires 50 Musket Balls instead of 25.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T173147Z" creationid="Dmytro Kyrychuk" creationdate="20221027T173113Z">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Spawn ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220722Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220722Z">
+        <seg>== Спавн ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Tips ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190729Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190729Z">
@@ -202,6 +218,22 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20221025T184141Z" creationid="Dmytro" creationdate="20221025T180556Z">
         <seg>'''Антизурочувальна мантра''' це [[аксесуар]], що поєднує властивості [[Магафон]]а та [[Назар]]а. Цей предмет надає імунітет від [[дебаф]]ів  [[Безмовність]] та [[Проклятий]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The '''Eye of Cthulhu''' is a [[pre-Hardmode]] [[boss]]. It is one of the first bosses a player may encounter, as it spawns automatically when a relatively early level of game advancement is achieved. It can also be summoned manually with the [[Suspicious Looking Eye]] at night (''see [[#Spawn|Spawn]] below'').</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220426Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220426Z">
+        <seg>'''Око Ктулху''' is a [[pre-Hardmode]] [[boss]]. It is one of the first bosses a player may encounter, as it spawns automatically when a relatively early level of game advancement is achieved. It can also be summoned manually with the [[Suspicious Looking Eye]] at night (''see [[#Spawn|Spawn]] below'').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Eye of Cthulhu can be summoned manually using a [[Suspicious Looking Eye]] at [[night]] (beginning at 7:30{{nbsp}}PM in-game time).</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220751Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220751Z">
+        <seg>ОThe Eye of Cthulhu can be summoned manually using a [[Suspicious Looking Eye]] at [[night]] (beginning at 7:30{{nbsp}}PM in-game time).</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +442,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190713Z" creationid="Dmytro Kyrychuk" creationdate="20221026T190713Z">
         <seg>{{history|Mobile 1.1.5536|Додано.}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Mobile 1.2.10061|</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220255Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220255Z">
+        <seg>{{history|Mobile 1.2.10061|</seg>
       </tuv>
     </tu>
     <tu>
