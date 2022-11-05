@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>'''Biomes''' are the different types of areas that any ''[[Terraria]]'' [[world]] can contain. Every biome has its own characteristic terrain [[blocks]], collectible [[items]], backdrops, [[enemies]], [[critters]], theme [[music]], [[background walls]], [[Angler/Quests|Angler quest fish]], and other features.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221105T195421Z" creationid="Dmytro Kyrychuk" creationdate="20221105T195421Z">
+        <seg>'''Біоми''' це різні види місцевостей, що можуть міститися у [[світ]]ах ''[[Terraria|Терарії]]''. Every biome has its own characteristic terrain [[blocks]], collectible [[items]], backdrops, [[enemies]], [[critters]], theme [[music]], [[background walls]], [[Angler/Quests|Angler quest fish]], and other features.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Cursed Bullets''' are a type of [[Hardmode]] [[ammunition]]. [[Enemies]] struck by Cursed Bullets are always inflicted with the [[Cursed Inferno]] [[debuff]], which causes damage over time and cannot be extinguished by [[water]] (unlike the [[On Fire!]] debuff). They are [[the Corruption]] counterpart to [[the Crimson]]'s [[Ichor Bullet]]s.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T180658Z" creationid="Dmytro Kyrychuk" creationdate="20221027T180658Z">
@@ -270,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Biomes}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221105T194121Z" creationid="Dmytro Kyrychuk" creationdate="20221105T194121Z">
+        <seg>{{Biomes}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Bullets}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221027T172621Z" creationid="Dmytro Kyrychuk" creationdate="20221027T172621Z">
@@ -530,6 +546,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T180230Z" creationid="Dmytro Kyrychuk" creationdate="20221026T180230Z">
         <seg>{{item infobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{language info|en=Biomes}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221105T194128Z" creationid="Dmytro Kyrychuk" creationdate="20221105T194128Z">
+        <seg>{{language info|en=Biomes}}</seg>
       </tuv>
     </tu>
     <tu>
