@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Cavern ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T115434Z" creationid="Dmytro Kyrychuk" creationdate="20221106T115434Z">
+        <seg>== Печери ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Common variants ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181326Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181326Z">
@@ -190,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Space ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T113955Z" creationid="Dmytro Kyrychuk" creationdate="20221106T113955Z">
+        <seg>== Космос ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Spawn ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220925Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220722Z">
         <seg>== Поява ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Surface and Underground ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T111850Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111850Z">
+        <seg>== Поверхня та Підземелля ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +238,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Corruption and Crimson ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114052Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114052Z">
+        <seg>=== Прокляті землі та Багрянець ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Desert ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114028Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114028Z">
+        <seg>=== Пустеля ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Dungeon ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114103Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114103Z">
+        <seg>=== Темниця ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Forest ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114023Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114023Z">
+        <seg>=== Ліс ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Jungle ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114058Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114058Z">
+        <seg>=== Джунглі ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Ocean ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114242Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114242Z">
+        <seg>=== Океан ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Recipes ===</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221025T190659Z" creationid="Dmytro Kyrychuk" creationdate="20221025T190659Z">
@@ -222,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Snow biome ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114017Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114017Z">
+        <seg>=== Сніговий біом ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Used in ===</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165708Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165708Z">
         <seg>=== Використовується у ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Going any deeper, the player will find unique [[#Cavern|subterranean variants]] of most of these. These include the [[Underground Desert]], [[Ice biome]], and [[Underground Jungle]]. The [[Glowing Mushroom biome]] also appears in the [[Cavern]] layer, and [[the Underworld]] spans the entire bottom of the world.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192032Z" creationid="Dmytro Kyrychuk" creationdate="20221106T115748Z">
+        <seg>Спустившись трохи нижче, гравець знайде унікальні [[Печери|підземні варіанти]] більшості з них. Сюди входять [[Підземна пустеля]], [[Крижаний біом]], та [[Підземні джунглі]]. [[Glowing Mushroom biome]] також є на рівні [[Печери|печер]], а [[Пекло]] простягається вздовж всього нижнього рівня світу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +336,8 @@
       <tuv lang="en-US">
         <seg>Spanning the world's ceiling is the [[Space]] biome. [[#Surface and Underground|Biomes on the Surface layer]] include [[Forest]]s, [[Desert]]s, the [[Snow biome]], the [[Jungle]], the [[Dungeon]], the [[Evil biome]] (either [[the Corruption]] or [[the Crimson]]), and at the far ends of the world, the two [[Ocean]]s. These Surface biomes extend into the [[Underground]] layer.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T111839Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111839Z">
-        <seg>По верхній частині світу простягається біом [[Космос]]у. [[#Surface and Underground|Biomes on the Surface layer]] include [[Forest]]s, [[Desert]]s, the [[Snow biome]], the [[Jungle]], the [[Dungeon]], the [[Evil biome]] (either [[the Corruption]] or [[the Crimson]]), and at the far ends of the world, the two [[Ocean]]s. These Surface biomes extend into the [[Underground]] layer.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T113936Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111839Z">
+        <seg>По верхній частині світу простягається біом [[Космос]]у. [[#Поверхня та підземелля|Біоми на поверхні світу]] включають [[Ліс]]и, [[Пустеля|Пустелі]], [[Сніговий біом]], [[Джунглі]], [[Темницю]], [[Злий біом]] (або [[Кляті землі]], або [[Багрянець]]), і два [[Океан]]и з обох країв світу. Ці поверхневі біоми простягаються до рівня [[Підземелля]].</seg>
       </tuv>
     </tu>
     <tu>
