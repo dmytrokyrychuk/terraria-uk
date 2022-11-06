@@ -414,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[File:BiomeBannerEnchantedSwordShrine.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193134Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193134Z">
+        <seg>[[File:BiomeBannerEnchantedSwordShrine.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerFloatingIsland.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193139Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193139Z">
+        <seg>[[File:BiomeBannerFloatingIsland.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[File:BiomeBannerForest.png|right|300px]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192850Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192850Z">
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193041Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193041Z">
         <seg>[[File:BiomeBannerJungleTemple.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerLivingTree.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193232Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193232Z">
+        <seg>[[File:BiomeBannerLivingTree.png|300px|right]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +646,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[File:Heart Shrine.png|170px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193247Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193247Z">
+        <seg>[[File:Heart Shrine.png|170px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Ice Chest Terraria.png|250px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193243Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193243Z">
+        <seg>[[File:Ice Chest Terraria.png|250px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Jungle Sanctum.png|210px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193250Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193250Z">
+        <seg>[[File:Jungle Sanctum.png|210px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[File:Large Ore Vein.png|150px|right]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193115Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193115Z">
@@ -630,10 +678,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[File:Living Mahogany Tree.png|150px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193235Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193235Z">
+        <seg>[[File:Living Mahogany Tree.png|150px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[File:Mosaic.png|180px|right]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193119Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193119Z">
         <seg>[[File:Mosaic.png|180px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Moss Chamber.jpg|100px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193122Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193122Z">
+        <seg>[[File:Moss Chamber.jpg|100px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Pyramid.png|220px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193237Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193237Z">
+        <seg>[[File:Pyramid.png|220px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:RuinedHouse.jpg|120px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193240Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193240Z">
+        <seg>[[File:RuinedHouse.jpg|120px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Shrine.png|200px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193230Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193230Z">
+        <seg>[[File:Shrine.png|200px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Stone Patch.png|180px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193130Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193130Z">
+        <seg>[[File:Stone Patch.png|180px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Thin ice patch.png|180px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193127Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193127Z">
+        <seg>[[File:Thin ice patch.png|180px|right]]</seg>
       </tuv>
     </tu>
     <tu>
