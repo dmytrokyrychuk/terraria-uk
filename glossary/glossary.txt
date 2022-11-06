@@ -13,3 +13,5 @@ Sunglasses	Сонячні окуляри
 Skeletron Prime	Скелетрон Прайм
 Snow biome	Сніговий біом
 Crimson	Багрянець
+Corruption	Прокляті землі
+Hallow	Святі землі
