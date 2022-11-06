@@ -336,8 +336,8 @@
       <tuv lang="en-US">
         <seg>Spanning the world's ceiling is the [[Space]] biome. [[#Surface and Underground|Biomes on the Surface layer]] include [[Forest]]s, [[Desert]]s, the [[Snow biome]], the [[Jungle]], the [[Dungeon]], the [[Evil biome]] (either [[the Corruption]] or [[the Crimson]]), and at the far ends of the world, the two [[Ocean]]s. These Surface biomes extend into the [[Underground]] layer.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T113936Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111839Z">
-        <seg>По верхній частині світу простягається біом [[Космос]]у. [[#Поверхня та підземелля|Біоми на поверхні світу]] включають [[Ліс]]и, [[Пустеля|Пустелі]], [[Сніговий біом]], [[Джунглі]], [[Темницю]], [[Злий біом]] (або [[Кляті землі]], або [[Багрянець]]), і два [[Океан]]и з обох країв світу. Ці поверхневі біоми простягаються до рівня [[Підземелля]].</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192712Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111839Z">
+        <seg>По верхній частині світу простягається біом [[Космос]]у. [[#Поверхня та Підземелля|Біоми на поверхні світу]] включають [[Ліс]]и, [[Пустеля|Пустелі]], [[Сніговий біом]], [[Джунглі]], [[Темницю]], [[Злий біом]] (або [[Кляті землі]], або [[Багрянець]]), і два [[Океан]]и з обох країв світу. Ці поверхневі біоми простягаються до рівня [[Підземелля]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +778,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181408Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181408Z">
         <seg>{{reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| [[Crimson]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192213Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192213Z">
+        <seg>| [[Багрянець]]</seg>
       </tuv>
     </tu>
     <tu>
