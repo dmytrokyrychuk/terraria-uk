@@ -11,3 +11,4 @@ enemy	ворог
 Goggles	Окуляри
 Sunglasses	Сонячні окуляри
 Skeletron Prime	Скелетрон Прайм
+Snow biome	Сніговий біом
