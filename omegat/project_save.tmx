@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== The Hallow ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192939Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192939Z">
+        <seg>=== Святі землі ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Used in ===</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165708Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165708Z">
@@ -370,6 +378,262 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T173946Z" creationid="Dmytro Kyrychuk" creationdate="20221025T191333Z">
         <seg>Хоча Антизурочувальна мантра доступна тільки у складному режимі на {{eversions|1.4.4|invert=y}}, її можна здобути у простому режимі на {{eversions|1.4.4}}, оскільки Мегафон можна отримати, кинувши Назар у {{eil|Мерехт}} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerAether.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193053Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193053Z">
+        <seg>[[File:BiomeBannerAether.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerCorruption.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192903Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192903Z">
+        <seg>[[File:BiomeBannerCorruption.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerCrimson.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192906Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192906Z">
+        <seg>[[File:BiomeBannerCrimson.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerDesert.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192900Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192900Z">
+        <seg>[[File:BiomeBannerDesert.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerForest.png|right|300px]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192850Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192850Z">
+        <seg>[[File:BiomeBannerForest.png|right|300px]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerGlowingMoss.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193038Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193038Z">
+        <seg>[[File:BiomeBannerGlowingMoss.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerGranite.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193027Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193027Z">
+        <seg>[[File:BiomeBannerGranite.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerGraveyard.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193018Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193018Z">
+        <seg>[[File:BiomeBannerGraveyard.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerHallow.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192930Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192930Z">
+        <seg>[[File:BiomeBannerHallow.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerHive.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193031Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193031Z">
+        <seg>[[File:BiomeBannerHive.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerJungleTemple.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193041Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193041Z">
+        <seg>[[File:BiomeBannerJungleTemple.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerMarble.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193022Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193022Z">
+        <seg>[[File:BiomeBannerMarble.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerMeteor.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193043Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193043Z">
+        <seg>[[File:BiomeBannerMeteor.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerMushroom.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192913Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192913Z">
+        <seg>[[File:BiomeBannerMushroom.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerOasis.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193035Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193035Z">
+        <seg>[[File:BiomeBannerOasis.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerOcean.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192910Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192910Z">
+        <seg>[[File:BiomeBannerOcean.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerSnow.png|right|300px]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192853Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192853Z">
+        <seg>[[File:BiomeBannerSnow.png|right|300px]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerSpace.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192846Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192846Z">
+        <seg>[[File:BiomeBannerSpace.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerSpiderCave.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193047Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193047Z">
+        <seg>[[File:BiomeBannerSpiderCave.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerTown.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193050Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193050Z">
+        <seg>[[File:BiomeBannerTown.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundCorruption.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193005Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193005Z">
+        <seg>[[File:BiomeBannerUndergroundCorruption.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundCrimson.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193013Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193013Z">
+        <seg>[[File:BiomeBannerUndergroundCrimson.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundDesert.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192919Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192919Z">
+        <seg>[[File:BiomeBannerUndergroundDesert.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundHallow.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193009Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193009Z">
+        <seg>[[File:BiomeBannerUndergroundHallow.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundJungle.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192922Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192922Z">
+        <seg>[[File:BiomeBannerUndergroundJungle.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUndergroundSnow.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192916Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192916Z">
+        <seg>[[File:BiomeBannerUndergroundSnow.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:BiomeBannerUnderworld.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T192925Z" creationid="Dmytro Kyrychuk" creationdate="20221106T192925Z">
+        <seg>[[File:BiomeBannerUnderworld.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Campsite.png|120px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193058Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193058Z">
+        <seg>[[File:Campsite.png|120px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Diamond chamber.png|180px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193112Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193112Z">
+        <seg>[[File:Diamond chamber.png|180px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Flower Patch.png|300px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193103Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193103Z">
+        <seg>[[File:Flower Patch.png|300px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Large Ore Vein.png|150px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193115Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193115Z">
+        <seg>[[File:Large Ore Vein.png|150px|right]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Mosaic.png|180px|right]]</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T193119Z" creationid="Dmytro Kyrychuk" creationdate="20221106T193119Z">
+        <seg>[[File:Mosaic.png|180px|right]]</seg>
       </tuv>
     </tu>
     <tu>
