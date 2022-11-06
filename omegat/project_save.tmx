@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spanning the world's ceiling is the [[Space]] biome. [[#Surface and Underground|Biomes on the Surface layer]] include [[Forest]]s, [[Desert]]s, the [[Snow biome]], the [[Jungle]], the [[Dungeon]], the [[Evil biome]] (either [[the Corruption]] or [[the Crimson]]), and at the far ends of the world, the two [[Ocean]]s. These Surface biomes extend into the [[Underground]] layer.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T111839Z" creationid="Dmytro Kyrychuk" creationdate="20221106T111839Z">
+        <seg>По верхній частині світу простягається біом [[Космос]]у. [[#Surface and Underground|Biomes on the Surface layer]] include [[Forest]]s, [[Desert]]s, the [[Snow biome]], the [[Jungle]], the [[Dungeon]], the [[Evil biome]] (either [[the Corruption]] or [[the Crimson]]), and at the far ends of the world, the two [[Ocean]]s. These Surface biomes extend into the [[Underground]] layer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The '''Countercurse Mantra''' is an [[accessory]] that combines the functions of the [[Megaphone]] and the [[Nazar]]. This item grants immunity to both the [[Silenced]] and [[Cursed]] [[debuffs]].</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro" changedate="20221025T184141Z" creationid="Dmytro" creationdate="20221025T180556Z">
