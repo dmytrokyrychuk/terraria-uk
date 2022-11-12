@@ -15,3 +15,4 @@ Snow biome	Сніговий біом
 Crimson	Багрянець
 Corruption	Прокляті землі
 Hallow	Святі землі
+Underground Hallow	Підземні святі землі
