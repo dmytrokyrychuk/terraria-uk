@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The '''Greedy Ring''' is a [[Hardmode]] [[accessory]] that combines the [[Discount Card|Discount Card's]] 20% discount off at any [[NPC]] shop, the [[Lucky Coin|Lucky Coin's]] 20% chance of spawning 1-10 extra [[coins]] whenever an [[enemy]] is hit, and the [[Gold Ring|Gold Ring's]] increased coin pickup range.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T192448Z" creationid="Dmytro Kyrychuk" creationdate="20221119T192448Z">
+        <seg>'''Каблучка жадібності''' це [[аксесуар]] [[складний режим|складного режиму]] that combines the [[Discount Card|Discount Card's]] 20% discount off at any [[NPC]] shop, the [[Lucky Coin|Lucky Coin's]] 20% chance of spawning 1-10 extra [[coins]] whenever an [[enemy]] is hit, and the [[Gold Ring|Gold Ring's]] increased coin pickup range.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Eye of Cthulhu can be summoned manually using a [[Suspicious Looking Eye]] at [[night]] (beginning at 7:30{{nbsp}}PM in-game time).</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220920Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220751Z">
