@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{/Crafting tree}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191720Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191720Z">
+        <seg>{{/Crafting tree}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Biomes}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221105T194121Z" creationid="Dmytro Kyrychuk" creationdate="20221105T194121Z">
@@ -814,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Master Template Equipables}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191738Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191738Z">
+        <seg>{{Master Template Equipables}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Master Template Tiles</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182419Z">
@@ -834,6 +850,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220044Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220044Z">
         <seg>{{bestiary}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{exclusive|1.3.0.1}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191702Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191702Z">
+        <seg>{{exclusive|1.3.0.1}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{language info|en=Greedy Ring}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191742Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191742Z">
+        <seg>{{language info|en=Greedy Ring}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{language info|en=Marble Block}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182428Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182428Z">
@@ -1150,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{recipes|result=Greedy Ring|expectedrows=1}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191709Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191709Z">
+        <seg>{{recipes|result=Greedy Ring|expectedrows=1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{recipes|result=Marble Block|expectedrows=1}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182350Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182350Z">
@@ -1210,6 +1250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191035Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191035Z">
         <seg>| auto = 131</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| auto = 3035</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191700Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191700Z">
+        <seg>| auto = 3035</seg>
       </tuv>
     </tu>
     <tu>
