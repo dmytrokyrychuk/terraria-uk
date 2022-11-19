@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Notes ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T203715Z" creationid="Dmytro Kyrychuk" creationdate="20221119T203715Z">
+        <seg>== Примітки ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== References ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181421Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181421Z">
