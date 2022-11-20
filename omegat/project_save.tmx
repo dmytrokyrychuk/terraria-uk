@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Equipping this item before reforging your items can make a world of difference, especially because the [[Goblin Tinkerer]] can sometimes repeat prefixes, good or bad.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T195541Z" creationid="Dmytro Kyrychuk" creationdate="20221120T195541Z">
+        <seg>* Одягання цього предмета перед перековкою може мати величезний ефект, особливо бо [[Гоблін-інженер]] може інколи повторювати і хороші і погані префікси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;section begin=npc infobox /&gt;{{npc infobox | boxwidth = 24em</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T185613Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185613Z">
