@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Despite the money-making and money-saving potential of the Greedy Ring and its components, none of them are particularly valuable when sold. This, combined with their rarity, makes them much more valuable as [[multiplayer]] trade items.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T195249Z" creationid="Dmytro Kyrychuk" creationdate="20221120T195249Z">
+        <seg>* Не зважаючи на великий потенціал у накопиченні та економії грошей, каблучка жадібності та її компоненти вартують порівняно мало при продажі. Цей факт у поєднанні з їх рідкісністю робить їх більш цінними як предмет обміну в [[Мультиплеєр|багатокористувацькому]] режимі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Equipping this will make coin farms more efficient, and can be very useful for gathering coin [[ammunition]] for the [[Coin Gun]].</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T194841Z" creationid="Dmytro Kyrychuk" creationdate="20221120T194841Z">
