@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|ShimmerNotif = The three derived from this source are interchangable with {{item|Shimmer}}.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T095313Z" creationid="Dmytro Kyrychuk" creationdate="20221120T095313Z">
+        <seg>|ShimmerNotif = Усі три отримані звідси предмети є взаємозамінними через {{item|Shimmer}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|{{infobox wrapper|direction=row|float=none</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T191032Z" creationid="Dmytro Kyrychuk" creationdate="20221026T191032Z">
