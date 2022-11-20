@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mimics can be spawned by the player using the [[Chest Statue]], even [[Pre-Hardmode|prior to Hardmode]]. However, Mimics spawned this way only drop the [[Mimic Banner]].</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201856Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201856Z">
+        <seg>Гравець може прикликати наслідувачів за допомогою [[Статуя скрині|Статуї скрині]] навіть [[простий режим|до складного режиму]]. Але з приклаканих таким способом наслідувачів випадає тільки [[Знамено імітатора]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once [[Hardmode]] is activated, [[#Hardmode|a few new biomes]] form. The world's evil biome roots deeper with the [[Underground Corruption]]/[[Underground Crimson|Crimson]], and the [[The Hallow|Hallow]] and [[Underground Hallow]] form as well.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221112T090433Z" creationid="Dmytro Kyrychuk" creationdate="20221112T085647Z">
