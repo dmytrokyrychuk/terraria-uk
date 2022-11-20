@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Equipping this will make coin farms more efficient, and can be very useful for gathering coin [[ammunition]] for the [[Coin Gun]].</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T194841Z" creationid="Dmytro Kyrychuk" creationdate="20221120T194841Z">
+        <seg>* Її використання зробить фарм монет ефективнішим, що буде дуже корисним при накопиченні [[Амуніція|амуніції]] для [[Монетомет]]а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* The Eye of Cthulhu has not yet been defeated in the current world.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T221041Z" creationid="Dmytro Kyrychuk" creationdate="20221103T221041Z">
