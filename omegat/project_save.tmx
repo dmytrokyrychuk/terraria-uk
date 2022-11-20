@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Mimics''' are rare [[Hardmode]] [[enemies]] disguised as [[chests]], appearing as the appropriate chest type for the environment.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201441Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201441Z">
+        <seg>'''Наслідувачі''' це рідкісні [[вороги]] [[Складний режим|складного режиму]], замасковані під [[Скрині|скриню]], що з'являються у вигляді відповідної до середовища типу скрині. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Skeletron Prime''' is a [[Hardmode]] [[mechanical boss]] which is essentially a more difficult version of [[Skeletron]]. It consists of a head and four limbs, but, similarly to Skeletron, only the head needs to be defeated to defeat the boss.</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T190419Z" creationid="Dmytro Kyrychuk" creationdate="20221026T185933Z">
