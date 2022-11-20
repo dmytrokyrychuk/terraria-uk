@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Mini-biomes ==</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T200345Z" creationid="Dmytro Kyrychuk" creationdate="20221120T200345Z">
+        <seg>== Міні-біоми ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Notes ==</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T203715Z" creationid="Dmytro Kyrychuk" creationdate="20221119T203715Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165708Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165708Z">
         <seg>=== Використовується у ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biomes in this category tend to be small in number and size. They generally have unique characteristics and enemy or critter spawns, but usually have neither unique backgrounds nor music.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T200546Z" creationid="Dmytro Kyrychuk" creationdate="20221120T200546Z">
+        <seg>Біомі у цій категорії зазвичай є меншими за розміром, та рідше зустрічаються. Зазвичай, вони мають унікальні характеристики, ворогів та тваринок, але не тло і музику. </seg>
       </tuv>
     </tu>
     <tu>
