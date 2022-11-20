@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* The Greedy Ring is one of the most difficult items to obtain, given that the components have some of the lowest drop chances in the game.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T193041Z" creationid="Dmytro Kyrychuk" creationdate="20221120T193041Z">
+        <seg>* Каблучка жадібності є одним з найважче отримуваних предметів, бо її компоненти є одними з найрідкісніших дропів у грі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* [[Sunglasses]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184058Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184058Z">
