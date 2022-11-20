@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>* The Greedy Ring does not stack with any of the items in its crafting tree.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T102300Z" creationid="Dmytro Kyrychuk" creationdate="20221120T102300Z">
-        <seg>* Ефекти каблучка жадібності не комбінуються з жодними іншими предметами з його крафтового дерева.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T160055Z" creationid="Dmytro Kyrychuk" creationdate="20221120T102300Z">
+        <seg>* Ефекти каблучки жадібності не комбінуються з ефектами жодних інших предметів з її крафтового дерева.</seg>
       </tuv>
     </tu>
     <tu>
