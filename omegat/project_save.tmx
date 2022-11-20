@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* The Greedy Ring does not affect the prices of items that require defender medals.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T100443Z" creationid="Dmytro Kyrychuk" creationdate="20221120T100443Z">
+        <seg>* Каблучка жадібності не впливає на ціну предметів, що потребують медалі захисників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* The Greedy Ring does not stack with any of the items in its crafting tree.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T102300Z" creationid="Dmytro Kyrychuk" creationdate="20221120T102300Z">
+        <seg>* Ефекти каблучка жадібності не комбінуються з жодними іншими предметами з його крафтового дерева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* [[Sunglasses]]</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T184058Z" creationid="Dmytro Kyrychuk" creationdate="20221026T184058Z">
