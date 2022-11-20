@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Crafting tree ===</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T204446Z" creationid="Dmytro Kyrychuk" creationdate="20221119T204446Z">
+        <seg>=== Крафтове дерево ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Desert ===</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221106T114028Z" creationid="Dmytro Kyrychuk" creationdate="20221106T114028Z">
@@ -784,8 +792,8 @@
       <tuv lang="en-US">
         <seg>{{/Crafting tree}}</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T191720Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191720Z">
-        <seg>{{/Crafting tree}}</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221119T204455Z" creationid="Dmytro Kyrychuk" creationdate="20221119T191720Z">
+        <seg>{{/Крафтове дерево}}</seg>
       </tuv>
     </tu>
     <tu>
