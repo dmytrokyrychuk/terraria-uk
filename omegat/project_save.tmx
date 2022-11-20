@@ -120,8 +120,8 @@
       <tuv lang="en-US">
         <seg>* The sprite strongly resembles a golden ring with three rubies, being made of valuable materials, hence the "greedy" part of the name.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T193745Z" creationid="Dmytro Kyrychuk" creationdate="20221120T193745Z">
-        <seg>* Спрайт сильно нагадує золотий перстень зі троьома рубінами. Оскільки каблучка зроблена з дорогих матеріалів, її називають жадібною.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T195623Z" creationid="Dmytro Kyrychuk" creationdate="20221120T193745Z">
+        <seg>* Спрайт сильно нагадує золотий перстень зі трьома рубінами. Оскільки каблучка зроблена з дорогих матеріалів, її називають жадібною.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="en-US">
         <seg>*Equipping this item before reforging your items can make a world of difference, especially because the [[Goblin Tinkerer]] can sometimes repeat prefixes, good or bad.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T195541Z" creationid="Dmytro Kyrychuk" creationdate="20221120T195541Z">
-        <seg>* Одягання цього предмета перед перековкою може мати величезний ефект, особливо бо [[Гоблін-інженер]] може інколи повторювати і хороші і погані префікси.</seg>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T200255Z" creationid="Dmytro Kyrychuk" creationdate="20221120T195541Z">
+        <seg>* Одягання цього предмета перед перекованням може мати величезний ефект, особливо бо [[Гоблін-інженер]] може інколи повторювати і хороші і погані префікси.</seg>
       </tuv>
     </tu>
     <tu>
