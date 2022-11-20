@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Mythril}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201035Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201035Z">
+        <seg>{{Mythril}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{achievement|name=Eye on You}}</seg>
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221103T220056Z" creationid="Dmytro Kyrychuk" creationdate="20221103T220056Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T165446Z" creationid="Dmytro Kyrychuk" creationdate="20221026T165446Z">
         <seg>{{history|Desktop 1.3.0.1|Оновлено спрайт. Старий спрайт: [[File:Countercurse Mantra (old).png|20px]].}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{history|Desktop 1.3.1|Sprite updated.}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201048Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201048Z">
+        <seg>{{history|Desktop 1.3.1|Спрайт оновлено.}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T181329Z" creationid="Dmytro Kyrychuk" creationdate="20221026T181329Z">
         <seg>{{language info|en=Mimics}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{language info|en=Mythril Ore}}</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201019Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201019Z">
+        <seg>{{language info|en=Mythril Ore}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1554,14 @@
       </tuv>
       <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221026T182423Z" creationid="Dmytro Kyrychuk" creationdate="20221026T182423Z">
         <seg>| show-main = yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>| show-ore = yes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Dmytro Kyrychuk" changedate="20221120T201017Z" creationid="Dmytro Kyrychuk" creationdate="20221120T201017Z">
+        <seg>| show-ore = yes</seg>
       </tuv>
     </tu>
     <tu>
